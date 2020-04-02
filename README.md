@@ -1,3 +1,5 @@
+Connected to git
+
 # 🏞 Nuxt & Netlify CMS Starter
 
 A lot of the starter repos for **Nuxt x Netlify CMS** use a module like `nuxtent` or `nuxtdown` to manage flat file content. This project is meant to be a solution for those who don't mind doing a little more configuration to not have to rely on these dependencies.
@@ -60,9 +62,11 @@ This project comes with Netlify CMS ready to rumble, and a basic blog configurat
 5. Scroll down to **Services** and click **Enable Git Gateway**.
 
 ### 🔏 Media configuration
+
 The default configuration expects you to run on Netlify's Large Media, which uses Git LFS. To configure this yourself read up on it here:
-* [documentation](https://docs.netlify.com/large-media/overview/)
-or directly set it up by following [these](https://docs.netlify.com/large-media/setup/#configure-file-tracking) steps
+
+- [documentation](https://docs.netlify.com/large-media/overview/)
+  or directly set it up by following [these](https://docs.netlify.com/large-media/setup/#configure-file-tracking) steps
 
 ### 🔐 Local Setup
 
