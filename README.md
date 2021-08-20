@@ -6,7 +6,7 @@ I am Anyfactor...
 
 - Aspiring Data Analyst (*maybe* for your venture)
 - [Freelance Python Developer](https://www.anyfactor.xyz/) specializing in Automation, Web Scraping, Data Analytics and General Purpose Programming (4+ Years)
-- Founder of [a 2 person social media management service agency](www.itnadigital.com) (1+ Years)
+- Founder of [a 2 person social media management service agency](https://www.itnadigital.com) (1+ Years)
 - Solo Indie Developer (WallStbest, GoodRandomVideos, AAAS Suite etc.)
 - Armchair specialist in Stocks (Almost got interviewed by a "major" news organization for my stock memes....*almost* 😞)
 - Have a Bachelors and a Masters in Accounting
@@ -20,8 +20,8 @@ I am Anyfactor...
 
 ##### Side Projects 🪓
 
-- Working on [WallStBest.com](www.wallstbest.com) || A DD aggregrator and research tool of stocks from Reddit 
-- Working on [GoodRandomVideos](www.goodrandomvideos.com) || Does exactly what the name says(!)
+- Working on [WallStBest.com](https://www.wallstbest.com) || A DD aggregrator and research tool of stocks from Reddit 
+- Working on [GoodRandomVideos](https://www.goodrandomvideos.com) || Does exactly what the name says(!)
 - Working on AAAS (Automation As A Service) suite like Run My Script, Reddit Hunter etc.
 - Super micro static blog generator using Jinja and Python
 
