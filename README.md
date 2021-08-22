@@ -7,7 +7,7 @@ I am Anyfactor...
 - Aspiring Data Analyst (*maybe* for your venture)
 - [Freelance Python Developer](https://www.anyfactor.xyz/) specializing in Automation, Web Scraping, Data Analytics and General Purpose Programming (~5 Years of Professional Experience)
 - Founder of [a 2 person social media management service agency](https://www.itnadigital.com) (1+ Years)
-- Solo Indie Developer (WallStbest, GoodRandomVideos, AAAS Suite etc.)
+- Solo Indie Developer ([WallStbest](https://wallstbest.com/), [GoodRandomVideos](https://goodrandomvideos.com/), AAAS Suite etc.)
 - Armchair specialist in Stocks (Almost got interviewed by a "major" news organization for my stock memes....*almost* 😞)
 - Have a Bachelors and a Masters in Accounting
 
@@ -31,7 +31,7 @@ I am Anyfactor...
 #### Learning 🏫
 
 - **For My Dream Job 🤩**: Advanced SQL, Tableau, GCP + Bigquery, Mongodb, MySQL Advanced Pandas, PySpark, Basic Data Science and Machine Learning & Puzzles
-- **For Myself**: Advanced Python, Advanced RESTful Flask/Vue/Nuxt, Heroku+Netlify, Chrome Extension Building, SQLite3
+- **For Myself**: Advanced Python, Advanced RESTful Flask/Vue/Vuex/Nuxt, Heroku+Netlify, Chrome Extension Building, SQLite3
 - **Don't need to learn anymore 😎**: Requests, Selenium, Excel, "Practical" Python, Pandas, SQL, Regex, Heroku, Vue/Nuxt
 
 #### Certifications 📃
