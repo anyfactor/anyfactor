@@ -13,12 +13,12 @@ I am Anyfactor...
 
 ### Actual Coding Stuff
 
-##### Full Time Stuff ⌛
+#### Full Time Stuff ⌛
 
 - Applying to Jr. Data Analyst, Business Intelligence, Python Developer etc roles. Data + Python + SQL + Fully Remote is what I am looking for.
 - Freelance Python Dev-ing and being a life saver as they say
 
-##### Side Projects 🪓
+#### Side Projects 🪓
 
 - Working on [WallStBest.com](https://www.wallstbest.com) || A DD aggregrator and research tool of stocks from Reddit 
 - Working on [GoodRandomVideos](https://www.goodrandomvideos.com) || Does exactly what the name says(!)
@@ -28,17 +28,18 @@ I am Anyfactor...
 
 ### Learning Coding Stuff
 
-##### Learning 🏫
+#### Learning 🏫
 
 - **For My Dream Job 🤩**: Advanced SQL, Tableau, GCP + Bigquery, Mongodb, MySQL Advanced Pandas, PySpark, Basic Data Science and Machine Learning & Puzzles
 - **For Myself**: Advanced Python, Advanced RESTful Flask/Vue/Nuxt, Heroku+Netlify, Chrome Extension Building, SQLite3
 - **Don't need to learn anymore 😎**: Requests, Selenium, Excel, "Practical" Python, Pandas, SQL, Regex, Heroku, Vue/Nuxt
 
-##### Certifications 📃
+#### Certifications 📃
 
-- Google Analytics Beginner
-- IBM/Cognitive AI - Data Analytics Certification
-- Sololearn SQL Certification
+- [IBM/Cognitive AI - Data Analytics Certification](https://cognitiveclass.ai/courses/data-analysis-python) ✅
+- [Sololearn SQL Certification](https://www.sololearn.com/learning/1060) ✅
+- [Google Analytics Beginner](https://analytics.google.com/analytics/academy/course/6) ✅
+- [Kaggle Advanced SQL](https://www.kaggle.com/learn/advanced-sql)
 
 ### Repos that I am working or finished working on
 
