@@ -39,7 +39,7 @@ I am Anyfactor...
 - [IBM/Cognitive AI - Data Analytics Certification](https://cognitiveclass.ai/courses/data-analysis-python) ✅
 - [Sololearn SQL Certification](https://www.sololearn.com/learning/1060) ✅
 - [Google Analytics Beginner](https://analytics.google.com/analytics/academy/course/6) ✅
-- [Kaggle Advanced SQL](https://www.kaggle.com/learn/advanced-sql)
+- [Kaggle Advanced SQL](https://www.kaggle.com/learn/advanced-sql) ⏳
 
 ### Repos that I am working or finished working on
 
