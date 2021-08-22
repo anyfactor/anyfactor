@@ -5,7 +5,7 @@ I am Anyfactor...
 ### Crash Course on Me 💁🏼‍♂️
 
 - Aspiring Data Analyst (*maybe* for your venture)
-- [Freelance Python Developer](https://www.anyfactor.xyz/) specializing in Automation, Web Scraping, Data Analytics and General Purpose Programming (4+ Years)
+- [Freelance Python Developer](https://www.anyfactor.xyz/) specializing in Automation, Web Scraping, Data Analytics and General Purpose Programming (~5 Years of Professional Experience)
 - Founder of [a 2 person social media management service agency](https://www.itnadigital.com) (1+ Years)
 - Solo Indie Developer (WallStbest, GoodRandomVideos, AAAS Suite etc.)
 - Armchair specialist in Stocks (Almost got interviewed by a "major" news organization for my stock memes....*almost* 😞)
