@@ -44,6 +44,7 @@ I am Anyfactor...
 ### Repos that I am working or finished working on
 
 - [SQL Learning Showcase](https://github.com/anyfactor/SQL-Skill-Showcase) || Highlights of my journey in mastering SQL
+- [Replicating Visualizations with Tableau](https://www.notion.so/anyfactor/Replicating-Visualization-with-Tableau-2dbdf9230bac4cb4b593142efe79b26e) || Journal of my attempts in replicating data vizs using python, pandas, SQL, excel and tableau.
 - [Script Status Discord](https://github.com/anyfactor/Script-Status-Discord) || A series of experiments on path to a (monetizable) solution a practical problem in my freelance gig.
 - [Indian Used Car Analysis](https://github.com/anyfactor/Indian-Used-Car-Analysis) || Data was cleaned and preped; Pending machine learning application
 - [Bulk Renaming Columns](https://github.com/anyfactor/Bulk-Renaming-Columns-in-SQLite3) || A fun project that addressed a real problem
