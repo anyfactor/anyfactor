@@ -1,4 +1,4 @@
-**updated: September 2nd, 2021**
+**updated: 01/10/2021**
 
 ## [RESUME WEBSITE](https://www.anyfactor.xyz/)
 
