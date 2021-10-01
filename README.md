@@ -16,7 +16,7 @@ I am Anyfactor...
 #### Full Time Stuff ⌛
 
 - Applying to Jr. Data Analyst, Business Intelligence, Python Developer etc roles. Data + Python + SQL + Fully Remote is what I am looking for.
-- Freelance Python Dev-ing and being a life saver as they say || 🔗 [Website](https://www.anyfactor.xyz/) 👍🏼 [Reviews](https://github.com/anyfactor/anyfactor/blob/main/testimonials.md) 
+- Freelance Python Dev-ing and being a life saver as they say || 🔗 [Website](https://www.anyfactor.xyz/) 👍🏼 [Reviews](https://github.com/anyfactor/anyfactor/blob/main/testimonials.md)  📃 [Portfolio (Description of Past Projects)](https://github.com/anyfactor/anyfactor/blob/main/freelance_description.md)
 
 #### Side Projects 🪓
 
