@@ -50,6 +50,7 @@ I am Anyfactor...
 - [Bulk Renaming Columns](https://github.com/anyfactor/Bulk-Renaming-Columns-in-SQLite3) || A fun project that addressed a real problem
 - [JSON Plaintext to SQL](https://github.com/anyfactor/JSON-Plaintext-to-SQL) || A Walkthrough with Code on solving a practical problem with Python, Pandas and linux terminal apps
 - [Identifying Hospitals Clinics and Chamber with Pandas](https://github.com/anyfactor/Identifying-Hospitals-Clinics-and-Chamber-with-Pandas)
+- [USA Covid cases per 100k stratified by county voting pattern](https://anyfactor.notion.site/USA-Covid-cases-per-100k-stratified-by-county-voting-pattern-7f97fac412cd4e71b8f4d4122e6ea4d9) || An attempt to replicate, not a conculsive report
 
 Personal repos (WallStbest Frontend, WallStBest Backend, GRV Backend etc.) are always open to view upon request 😊  
 But not the 60+ contract projects I have done as a freelancer 😔 Those are confidential paid engagements.
