@@ -4,18 +4,19 @@ I am Anyfactor...
 
 ### Crash Course on Me 💁🏼‍♂️
 
-- Aspiring Data Analyst ~~(*maybe* for your venture)~~
+- Aspiring Data Analyst (*maybe* for your venture)
 - [Freelance Python Developer](https://www.anyfactor.xyz/) specializing in Automation, Web Scraping, Data Analytics and General Purpose Programming (~5 Years of Professional Experience)
 - Founder of [a 2 person social media management service agency](https://www.itnadigital.com) (1+ Years)
 - Solo Indie Developer ([WallStbest](https://wallstbest.com/), [GoodRandomVideos](https://goodrandomvideos.com/), AAAS Suite etc.)
 - Armchair specialist in Stocks (Almost got interviewed by a "major" news organization for my stock memes....*almost* 😞)
 - Have a Bachelors and a Masters in Accounting
+- Available for semi permanent contract and freelance roles. [Here is my resume](https://drive.google.com/file/d/1mRB_eGBi47CTFHaqqP1drwV0KQW0IkM0/view).
 
 ### Actual Coding Stuff
 
 #### Full Time Stuff ⌛
 
-- ~~Applying to Jr. Data Analyst, Business Intelligence, Python Developer etc roles. Data + Python + SQL + Fully Remote is what I am looking for.~~
+- Applying to Jr. Data Analyst, Business Intelligence, Python Developer etc roles. Data + Python + SQL + Fully Remote is what I am looking for.
 - Freelance Python Dev-ing and being a life saver as they say || 🔗 [Website](https://www.anyfactor.xyz/) 👍🏼 [Reviews](https://github.com/anyfactor/anyfactor/blob/main/testimonials.md)  📃 [Portfolio (Description of Past Projects)](https://github.com/anyfactor/anyfactor/blob/main/freelance_description.md)
 
 #### Side Projects 🪓
@@ -56,7 +57,5 @@ Personal repos (WallStbest Frontend, WallStBest Backend, GRV Backend etc.) are a
 But not the 60+ contract projects I have done as a freelancer 😔 Those are confidential paid engagements.
 
 ### Reach Me 📩
-
-[Resume](https://drive.google.com/file/d/1mRB_eGBi47CTFHaqqP1drwV0KQW0IkM0/view)
 
 Email, Twitter, Reddit and all other links can be find by just googling. I am very search friendly. 😊
