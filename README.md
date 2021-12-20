@@ -57,4 +57,6 @@ But not the 60+ contract projects I have done as a freelancer 😔 Those are con
 
 ### Reach Me 📩
 
-Email, Twitter, Redditm Resume all can be find by just googling. I am very search friendly. 😊
+[Resume](https://drive.google.com/file/d/1mRB_eGBi47CTFHaqqP1drwV0KQW0IkM0/view)
+
+Email, Twitter, Reddit and all other links can be find by just googling. I am very search friendly. 😊
