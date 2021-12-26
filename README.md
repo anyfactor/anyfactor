@@ -21,10 +21,16 @@ I am Anyfactor...
 
 #### Side Projects 🪓
 
+**Long Term Projects**
+
 - Working on [WallStBest.com](https://www.wallstbest.com) || A DD aggregrator and research tool of stocks from Reddit 
 - Working on [GoodRandomVideos](https://www.goodrandomvideos.com) || Does exactly what the name says(!)
 - Working on AAAS (Automation As A Service) suite like Run My Script, Reddit Hunter etc.
 - Super micro static blog generator using Jinja and Python
+
+**Micro Startups / Weekend Projects**
+
+- [WorthReading](https://anyfactor.notion.site/Micro-Startup-WorthReading-bb28cfca9984454791e1b73742eaacc8)
 
 
 ### Learning Coding Stuff
