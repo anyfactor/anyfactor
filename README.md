@@ -30,6 +30,7 @@ I am Anyfactor...
 
 **Micro Startups / Weekend Projects**
 
+- [Automated Coding Tutorials videos/gifs from a voiceover script and code || FFMPEG, TTS, carbon.now.sh](https://youtu.be/zVWDsbp3-LU)
 - [WorthReading](https://anyfactor.notion.site/Micro-Startup-WorthReading-bb28cfca9984454791e1b73742eaacc8)
 - [r/SmallBusiness Weekly Promotion Thread Alert](https://www.reddit.com/user/anyfactor/comments/sgp0b0/weekend_build_small_business_promotion_alert_free/?utm_source=reddit&utm_medium=usertext&utm_name=smallbusiness&utm_content=t1_huxr4f8)
 
